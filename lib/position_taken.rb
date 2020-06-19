@@ -3,7 +3,7 @@ def position_taken? (board, index)
 if " "
   false
 
-else " " == "X" || "o"
+else " " == "X" || "O"
   true
 
 end
