@@ -2,8 +2,8 @@
 def position_taken? (board, index)
 if " "
   false
-elsif "X" || "O" 
+elsif "X" || "O"
   true 
-  
+
 end
 end
